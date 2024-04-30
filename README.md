@@ -14,7 +14,7 @@ The model was created in following order:
 * Feature Extraction model using EfficientNetV2
 * Fine-tuned, above model
 
-The model were evaluated using:
+The model was evaluated using:
 * confusion matrix
 * loss and accuracy curve plots
 * precision, accuracy, recall and F1-score metrics
