@@ -1,9 +1,13 @@
 # Bird_Species_Classification
 
+The project presents a model for classificating different birs species from images. It was written using Tensorflow and Google Colab.  
 The file with extension ".ipynb" contains a code which provides taken steps to create a model for classificating 525 bird species from images.
 
 The dataset used for the model:
 https://www.kaggle.com/datasets/gpiosenka/100-bird-species/data
+
+Transfer Learning Model:
+EfficientNetV2B0 from tf.keras.applications.efficientnet_v2
 
 It contains images in 224x224x3 format and is divided into 3 sets:
 * training set - 84635 images
